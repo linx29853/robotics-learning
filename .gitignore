@@ -1,0 +1,11 @@
+.venv*/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.idea/
+.vscode/
+*.log
+*.mp4
+*.gif
+.DS_Store
