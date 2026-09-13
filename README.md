@@ -1,4 +1,4 @@
-# Robotics Learning｜我的机器人学学习记录
+# Robotics Learning｜机器人学学习记录
 
 从平面二连杆机械臂出发，记录我对 **正运动学 → 逆运动学 → 雅可比 → 奇异性 → MuJoCo 可视化** 的学习过程。
 
